@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/no-magic-numbers */
-import intervalToDuration from 'date-fns/intervalToDuration';
+import { intervalToDuration } from 'date-fns';
 
 export const zeroPad = (num: number | undefined) => String(num).padStart(2, '0');
 
