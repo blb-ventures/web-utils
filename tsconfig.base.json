@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "lib": ["ES6", "DOM", "ES2017"],
     "esModuleInterop": true,
     "resolveJsonModule": true,
     "strict": true,
