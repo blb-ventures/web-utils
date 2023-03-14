@@ -14,3 +14,4 @@ export * from './stream';
 export * from './string-to-color';
 export * from './throttle';
 export * from './time';
+export * from './whatsapp';
