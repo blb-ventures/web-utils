@@ -1,6 +1,6 @@
 {
   "name": "@blb-ventures/web-utils",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "",
   "main": "./lib/index.js",
   "module": "./lib/index.mjs",
@@ -41,6 +41,7 @@
     "./package.json": "./package.json"
   },
   "devDependencies": {
+    "@blb-ventures/eslint-config": "^0.1.6",
     "@rollup/plugin-typescript": "^11.0.0",
     "@types/eslint": "^8.21.0",
     "@types/node": "^18.15.0",
